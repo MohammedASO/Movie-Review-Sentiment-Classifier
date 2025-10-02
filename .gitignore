@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific ignores
+*.pkl                 # ignore trained model artifacts
+notebooks/.ipynb_checkpoints/
+.DS_Store             # macOS finder cruft
+Thumbs.db             # Windows explorer cruft
