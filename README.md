@@ -13,7 +13,6 @@ A simple machine learning project that predicts whether a movie review is **posi
 - **requirements.txt** # Dependencies
 - **README.md** # Project overview
 
-
 --------
 
 ## 🛠️ Tech Stack
@@ -55,11 +54,15 @@ python src/train.py
 
 # Predict sentiment
 python src/predict.py
+```
 
-## ✨ Examples:
+--------
 
+## ✨ Examples
+```bash
 Type a movie review (or 'quit' to exit): The film was amazing!
 Prediction: pos
 
 Type a movie review (or 'quit' to exit): The movie was boring and too long.
 Prediction: neg
+```
