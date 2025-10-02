@@ -5,13 +5,13 @@ A simple machine learning project that predicts whether a movie review is **posi
 --------
 
 ## 📂 Project Structure
-notebooks/
-sentiment_analysis.ipynb # Notebook for exploration and experiments
-src/
-train.py # Train and save the model pipeline
-predict.py # Load pipeline and classify new reviews
-requirements.txt # Dependencies
-README.md # Project overview
+**notebooks/**
+**sentiment_analysis.ipynb** # Notebook for exploration and experiments
+**src/**
+**train.py** # Train and save the model pipeline
+**predict.py** # Load pipeline and classify new reviews
+**requirements.txt** # Dependencies
+**README.md** # Project overview
 
 
 --------
