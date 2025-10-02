@@ -39,7 +39,7 @@ README.md # Project overview
 ## ⚡ Quick Start
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/Movie-Review-Sentiment-Classifier.git
+git clone https://github.com/MohammedASO/Movie-Review-Sentiment-Classifier.git
 cd Movie-Review-Sentiment-Classifier
 
 # Create venv
