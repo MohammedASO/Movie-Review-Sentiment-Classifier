@@ -56,7 +56,7 @@ python src/train.py
 # Predict sentiment
 python src/predict.py
 
-✨ Examples:
+## ✨ Examples:
 
 Type a movie review (or 'quit' to exit): The film was amazing!
 Prediction: pos
